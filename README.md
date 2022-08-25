@@ -1,4 +1,4 @@
-## 🌱 Make it work, make it right, make it fast 
+## 🌱 Make it work, make it right, make it fast
 ### Full-stack Developer with strong knowledge and hands-on experience in <br />
 
 ✅    Node.js, React, NextJs, JS/TS, Web3, Ethersjs <br />
